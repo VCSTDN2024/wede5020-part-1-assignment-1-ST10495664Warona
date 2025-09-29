@@ -9,3 +9,5 @@ Healing Minds organization’s aims to heal and help individuals who are struggl
 
 #Funtionality#
 the Functionality of this website is basic and easy to use. It has a naviagtion menu that is only found in the homepage . All the information for anything needed is found on the website.Information needed is found in the about us page and the services page. About us page also provides the history of Healing minds. If the user has any enquires they can message us. The user can add their information to enquire about being a sponsor or volunteer.
+#Style.css
+A new file has been added for part 2. This new addition focuses on the styling the website and making it look aesthetic. The website is not plan like it was before with the html files. Differents types of fonts, sizes, colors and backgrounded are added. 
