@@ -11,3 +11,11 @@ Healing Minds organization’s aims to heal and help individuals who are struggl
 the Functionality of this website is basic and easy to use. It has a naviagtion menu that is only found in the homepage . All the information for anything needed is found on the website.Information needed is found in the about us page and the services page. About us page also provides the history of Healing minds. If the user has any enquires they can message us. The user can add their information to enquire about being a sponsor or volunteer.
 #Style.css
 A new file has been added for part 2. This new addition focuses on the styling the website and making it look aesthetic. The website is not plan like it was before with the html files. Differents types of fonts, sizes, colors and backgrounded are added. 
+#Javascript
+-for the index.html
+-service.html
+-enquiry.html
+-contact.html 
+
+#Part 3
+There have been several updates to the website. The background color has changed from blue to white, as the blue gave a more childlike impression. Each page now includes a navigation bar, enhancing ease of use and overall user experience. Visitors can inquire about the services offered or express interest in becoming sponsors or volunteers. Depending on the type of inquiry, a message is sent, and the user receives appropriate feedback
